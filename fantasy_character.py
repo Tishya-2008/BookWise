@@ -1,12 +1,3 @@
-"""
-U8 Final Project - Game of Thrones Character Minigame
-ICS3U
-Tishya Bhat
-Program explanation: This is a program where users input their gender and initials in order to create their very own Game of Thrones universe character name.
-Game creation day: May 16th, 2024
-Program submission and completion: March 31st, 2024
-"""
-
 #imports
 import tkinter as tk
 from tkinter import messagebox

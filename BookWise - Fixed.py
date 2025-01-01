@@ -1,12 +1,3 @@
-"""
-U8 Final Project - BookWise
-ICS3U
-Tishya Bhat
-Program explanation: This is a program where users can select different books and learn different information about them (ex: title, author, genre, year published, etc).
-Game creation day: May 2nd, 2024
-Program submission and completion: June 1st, 2024
-"""
-
 #imports
 import tkinter as tk
 import os

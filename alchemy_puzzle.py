@@ -1,12 +1,3 @@
-"""
-U8 Final Project - Spell Casting Minigame
-ICS3U
-Tishya Bhat
-Program explanation: This is a program where users combine elements to create a desired product.
-Game creation day: May 10th, 2024
-Program submission and completion: March 31st, 2024
-"""
-
 #imports
 import tkinter as tk
 from tkinter import messagebox

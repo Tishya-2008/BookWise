@@ -1,12 +1,3 @@
-"""
-U8 Final Project - Spell Casting Minigame
-ICS3U
-Tishya Bhat
-Program explanation: This is a program where users have to correctly enter as many Harry Potter spells that they see on the screen in 30s.
-Game creation day: May 10th, 2024
-Program submission and completion: March 31st, 2024
-"""
-
 #imports
 import tkinter as tk
 from tkinter import *
